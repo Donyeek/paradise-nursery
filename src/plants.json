@@ -1,0 +1,125 @@
+[
+  {
+    "category": "Foliage collection",
+    "plants": [
+      {
+        "name": "Snake Plant",
+        "image": "https://cdn.pixabay.com/photo/2021/01/22/06/04/snake-plant-5939187_1280.jpg",
+        "price": 15,
+        "description": "Upright leaves with striped green edges."
+      },
+      {
+        "name": "Spider Plant",
+        "image": "https://cdn.pixabay.com/photo/2018/07/11/06/47/chlorophytum-3530413_1280.jpg",
+        "price": 12,
+        "description": "Long arching leaves and trailing plantlets."
+      },
+      {
+        "name": "Peace Lily",
+        "image": "https://cdn.pixabay.com/photo/2019/06/12/14/14/peace-lilies-4269365_1280.jpg",
+        "price": 18,
+        "description": "White blooms above glossy foliage."
+      },
+      {
+        "name": "Boston Fern",
+        "image": "https://cdn.pixabay.com/photo/2020/04/30/19/52/boston-fern-5114414_1280.jpg",
+        "price": 20,
+        "description": "Soft fronds that spill over a pot."
+      },
+      {
+        "name": "Rubber Plant",
+        "image": "https://cdn.pixabay.com/photo/2020/02/15/11/49/flower-4850729_1280.jpg",
+        "price": 17,
+        "description": "Broad leaves with a glossy finish."
+      },
+      {
+        "name": "Succulents",
+        "image": "https://cdn.pixabay.com/photo/2016/11/21/16/05/cacti-1846147_1280.jpg",
+        "price": 18,
+        "description": "Compact shapes for a bright windowsill."
+      }
+    ]
+  },
+  {
+    "category": "Fragrant plants",
+    "plants": [
+      {
+        "name": "Lavender",
+        "image": "https://images.unsplash.com/photo-1611909023032-2d6b3134ecba",
+        "price": 20,
+        "description": "Purple flower spikes with a floral scent."
+      },
+      {
+        "name": "Jasmine",
+        "image": "https://images.unsplash.com/photo-1592729645009-b96d1e63d14b",
+        "price": 18,
+        "description": "A climbing plant with fragrant flowers."
+      },
+      {
+        "name": "Rosemary",
+        "image": "https://cdn.pixabay.com/photo/2019/10/11/07/12/rosemary-4541241_1280.jpg",
+        "price": 15,
+        "description": "Needle-like leaves for a sunny kitchen."
+      },
+      {
+        "name": "Mint",
+        "image": "https://cdn.pixabay.com/photo/2016/01/07/18/16/mint-1126282_1280.jpg",
+        "price": 12,
+        "description": "Fresh green leaves with a cool scent."
+      },
+      {
+        "name": "Lemon Balm",
+        "image": "https://cdn.pixabay.com/photo/2019/09/16/07/41/balm-4480134_1280.jpg",
+        "price": 14,
+        "description": "Soft leaves with a lemon fragrance."
+      },
+      {
+        "name": "Hyacinth",
+        "image": "https://cdn.pixabay.com/photo/2019/04/07/20/20/hyacinth-4110726_1280.jpg",
+        "price": 22,
+        "description": "Dense clusters of fragrant spring flowers."
+      }
+    ]
+  },
+  {
+    "category": "Windowsill favorites",
+    "plants": [
+      {
+        "name": "Aloe Vera",
+        "image": "https://cdn.pixabay.com/photo/2018/04/02/07/42/leaf-3283175_1280.jpg",
+        "price": 14,
+        "description": "Thick pointed leaves that store water."
+      },
+      {
+        "name": "ZZ Plant",
+        "image": "https://images.unsplash.com/photo-1632207691143-643e2a9a9361",
+        "price": 25,
+        "description": "Glossy leaflets on upright stems."
+      },
+      {
+        "name": "Pothos",
+        "image": "https://cdn.pixabay.com/photo/2018/11/15/10/32/plants-3816945_1280.jpg",
+        "price": 10,
+        "description": "Trailing vines for a shelf or hanging pot."
+      },
+      {
+        "name": "Cast Iron Plant",
+        "image": "https://cdn.pixabay.com/photo/2017/02/16/18/04/cast-iron-plant-2072008_1280.jpg",
+        "price": 20,
+        "description": "Long, deep green leaves for a shaded corner."
+      },
+      {
+        "name": "Aglaonema",
+        "image": "https://cdn.pixabay.com/photo/2014/10/10/04/27/aglaonema-482915_1280.jpg",
+        "price": 22,
+        "description": "Patterned foliage on short stems."
+      },
+      {
+        "name": "Basil",
+        "image": "https://cdn.pixabay.com/photo/2016/07/24/20/48/tulsi-1539181_1280.jpg",
+        "price": 9,
+        "description": "A leafy herb for a sunny sill."
+      }
+    ]
+  }
+]
